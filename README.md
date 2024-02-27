@@ -1,1 +1,1 @@
-Dizideki elemanların kaç kez tekrar edildiğini gösteren uygulama
+Application that shows how many times the elements in the array are repeated
